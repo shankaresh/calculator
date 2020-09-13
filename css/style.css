@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nova+Round&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
 
 * {
 margin: 0;
@@ -20,7 +20,7 @@ min-width: 273px;
 min-height: 448px;
 background: #5f657d;
 box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.15);
-font-family: Nova Round;
+font-family: Orbitron;
 font-style: normal;
 font-weight: normal;
 font-size: 24px;
